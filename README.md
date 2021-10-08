@@ -1,13 +1,13 @@
-<!-- <p align="center">
-  <a href="https://www.nithun.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
-</p> -->
+<p align="center">
+  <a href="https://www.nithun.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/2892349/136579296-7abd0d65-026d-4995-abe6-71f746858671.png" alt="my banner"></a>
+</p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.nithun.com/" target="_blank" rel="noreferrer">Nithun</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻
+ <p> Hi there, I'm <a href="https://www.nithun.com/" target="_blank" rel="noreferrer">Nithun</a> 👋</p>
+  <p>I'm a Full-Stack software engineer 💻</p>
 </h2> 
 
 <!-- 
